@@ -2,7 +2,7 @@
 
 # 🐚 Bash Basics to Advanced
 
-**A day-by-day journey from your first shell script to real-world Bash automation.**
+**A day-by-day journey from my first shell script to real-world Bash automation.**
 
 ![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Learning%20in%20Progress-blue?style=for-the-badge)
