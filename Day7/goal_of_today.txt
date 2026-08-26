@@ -1,0 +1,27 @@
+Input output Redirections will be Clear
+Problem # 1
+output redirection >
+> is used to save materials in a file insted of showing on the terminal as 
+
+echo "I am Ali Raza fro Balghar Baltistan " >file1.txt
+here if save sth using echo "" > file1.txt then it will erase whats inside 
+
+
+Problem # 2
+Append >>
+In contrast of > >> save the previous as its and just add new added to the 
+end of previous one
+
+Problem # 3
+Input redirection <
+
+Problem # $
+Error redirection 2>
+Error usuallay happend in our scripts so instead of showing those strange words on
+the screen we can easily save those in a file using 2> file.txt
+as
+cd NotExistingFolder 2> error.txt
+the error will store in error.txt
+also note that 
+cd NotExistingFolder 2>> error.txt here 2>> save the previous and appent the new
+error message 

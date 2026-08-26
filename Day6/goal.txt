@@ -1,0 +1,3 @@
+In this session or day we will cover error handling in bash with real life examples:
+Its very important and using exit states we terminate program if we face an issue or
+not get desired output. 

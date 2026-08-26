@@ -1,0 +1,5 @@
+<<<<<<<<<<<<<<<<<<<<<<<   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Today we are going to learn a brand new topic here in bash
+
+Its about the logic operator with the revision of if else
+Also today we will study the cases as switches in C

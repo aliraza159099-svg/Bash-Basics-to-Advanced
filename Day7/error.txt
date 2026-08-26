@@ -1,0 +1,2 @@
+ls: cannot access 'jjhjhf.txt': No such file or directory
+cd: no such file or directory: sdfyuyu

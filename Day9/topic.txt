@@ -1,0 +1,10 @@
+..............Quoting in Bash............
+Double Quotes " " for printing 
+as echo "I am learning bash for practical I am $username"
+here $username will be replace by the value store in username
+
+Single Quote ''
+it print whatever in the '' as its it. In above case username will not printed
+and it just print the plane text 
+I am learning bas for practical I am $username
+
