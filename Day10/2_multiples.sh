@@ -13,7 +13,7 @@ do
 	then
 	mul "$num"
 else
-	echo "Thanks for using AR Calculator"
+	echo "=== Thanks for using AR Calculator ==="
 	fi
 done
 
