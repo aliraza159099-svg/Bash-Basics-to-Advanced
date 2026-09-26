@@ -1,4 +1,5 @@
-#!/bin/bash     #This is called Shabang
+#!/bin/bash     
+#This is called Shabang
 
 #this is my first bash code and its a single line comment
 
